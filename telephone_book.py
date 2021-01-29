@@ -1,5 +1,14 @@
-import pickle
+'''
+***********************************************
+* program: telephone_book.py                  *
+* author: Aris Carter                         *
+* date: 1/28/21                               *
+* The Hidden Genius Project                   *
+* Cohort: OAk8                                *
+***********************************************
+'''
 
+import pickle
 
 # 1 Leader Numbers
 leader = {}

@@ -1,3 +1,13 @@
+'''
+***********************************************
+* program: pickle_lesson2.py                  *
+* author: Aris Carter                         *
+* date: 1/28/21                               *
+* The Hidden Genius Project                   *
+* Cohort: OAk8                                *
+***********************************************
+'''
+
 import pickle
 
 #1 Initialize an empty dictionary variable, name it all_pod_members
